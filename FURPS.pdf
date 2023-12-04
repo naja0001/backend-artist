@@ -1,0 +1,9 @@
+Functionality: Vores applikation opfylder CRUD-operationerne samt filtrering sortering og præsentation af kunster data.
+ 
+Usability: Vi har os sørget for at vores brugergrænseflade er brugervenlig og meget ligetil.
+ 
+Reliability: Vores applikation er stabil og kører som det skal da vi har fulgt CRUD-operationerne.
+ 
+Performance: Vores applikation kører hurtigt og effektivt.
+ 
+Supporability: Vi har sørget for vores kode er velstruktureret så det er nemt for fremtidige udviklere at forstå.
